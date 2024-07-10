@@ -1,0 +1,10 @@
+Calculated integral: 3.1415926716 Width: 0.0000000010 Number of processes: 2 Execution time: 1.984552 seconds
+Calculated integral: 3.1415926778 Width: 0.0000000010 Number of processes: 4 Execution time: 1.021192 seconds
+Calculated integral: 3.1415924466 Width: 0.0000000001 Number of processes: 2 Execution time: 19.638406 seconds
+Calculated integral: 3.1415924472 Width: 0.0000000001 Number of processes: 4 Execution time: 10.176769 seconds
+Calculated integral: 3.1415924485 Width: 0.0000000001 Number of processes: 10 Execution time: 5.531508 seconds
+Calculated integral: 3.1415926716 Width: 0.0000000010 Number of processes: 2 Execution time: 1.994296 seconds
+Calculated integral: 3.1415926778 Width: 0.0000000010 Number of processes: 4 Execution time: 1.020276 seconds
+Calculated integral: 3.1415924466 Width: 0.0000000001 Number of processes: 2 Execution time: 19.671919 seconds
+Calculated integral: 3.1415924472 Width: 0.0000000001 Number of processes: 4 Execution time: 10.247969 seconds
+Calculated integral: 3.1415924485 Width: 0.0000000001 Number of processes: 10 Execution time: 5.683880 seconds
